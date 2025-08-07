@@ -45,13 +45,6 @@ The aim of this project is to explore how factors such as flight class, number o
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Overview](screenshots/overview.png)  
-![Airline Insights](screenshots/airline_insights.png)
-
----
-
 ## 🔗 How to View
 
 To open the dashboard, download the `.pbix` file and open it in Power BI Desktop.
